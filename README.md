@@ -6,7 +6,7 @@
 **Contacts:**
 |Site|Address|
 |-|-|
-|Discord|Barni#6264|
+|Discord|barni6264|
 
 <!---
 Barni6264/Barni6264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
