@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Barni6264
-- 👀 I’m interested in JS, C#, C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ... (not yet)
+- 👀 I’m interested in JS, C#, Java
  
 **Contacts:**
 |Site|Address|
